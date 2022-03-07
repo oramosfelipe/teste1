@@ -1,2 +1,3 @@
 Esta é o nosso exemplo 1 - Alterado pelo repositório clonegit
 Editado pelo clone.
+Editado agora por aulagit.
