@@ -1,3 +1,8 @@
 esse é nosso exemplo 2
 Editado pelo clone.
 mais uma edição
+
+
+
+
+este é um novo conteúdo da linha 8
